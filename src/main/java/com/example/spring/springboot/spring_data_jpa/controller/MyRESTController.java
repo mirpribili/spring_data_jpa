@@ -1,8 +1,8 @@
 package com.example.spring.springboot.spring_data_jpa.controller;
 
 
-import com.example.spring.springboot.springboot_rest.entity.Employee;
-import com.example.spring.springboot.springboot_rest.service.EmployeeService;
+import com.example.spring.springboot.spring_data_jpa.entity.Employee;
+import com.example.spring.springboot.spring_data_jpa.service.EmployeeService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
